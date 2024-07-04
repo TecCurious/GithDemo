@@ -1,2 +1,2 @@
 # GithDemo
-Exploring the github
+Exploring the github.
